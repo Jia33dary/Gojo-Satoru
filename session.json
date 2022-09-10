@@ -1,3 +1,626 @@
-[
-  Session id here
-]
+{
+  "اعتبارات": {
+    "noiseKey": {
+      "خصوصی": {
+        "نوع": "بافر"،
+        "داده": "gEJ+BEwMRbkvmN8HIaAiq/eGb0T3zQdER86L3FcxE30="
+      }،
+      "عمومی": {
+        "نوع": "بافر"،
+        "داده": "nEvJTUdg3cGzLg3svJVu/uZjNuAm7LgKALUvlJy/JH4="
+      }
+    }،
+    "signedIdentityKey": {
+      "خصوصی": {
+        "نوع": "بافر"،
+        "داده": "UOIey3fzGPi+BfPN8NAzbLXdukQa2LlFGkcRtV7ATGQ="
+      }،
+      "عمومی": {
+        "نوع": "بافر"،
+        "داده": "J5Xfoqcvs1t3lzHjd555qZyE4r5EkbOTF+hEaqnZrj8="
+      }
+    }،
+    "signedPreKey": {
+      "KeyPair": {
+        "خصوصی": {
+          "نوع": "بافر"،
+          "داده": "WJPa/qy7cTsOJkCBqKNG66qEy1TYGn81ANs0jcHIen4="
+        }،
+        "عمومی": {
+          "نوع": "بافر"،
+          "داده": "5N4MUI36KbTZs8Iy8VYeMRW3o3+jmlKSxIMQnQ9T/hc="
+        }
+      }،
+      "امضا": {
+        "نوع": "بافر"،
+        "داده": "HTXPS4N2W45QatMq76BhqDpZo5jbxCwwT7w0OcGYEzXJowA2Fjif6g9WpUtpUAFP/C0lYA/t/ZxKnkhsCwt2Ag=="
+      }،
+      "keyId": 1
+    }،
+    "RegistrationId": 123،
+    "advSecretKey": "sqFtioO7Xa40P8aYts2edev9TQt+mStvMvA63rdy9mM="،
+    "nextPreKeyId": 31،
+    "firstUnuploadedPreKeyId": 31،
+    "serverHasPreKeys": درست است،
+    "حساب": {
+      "جزئیات": "CIbVqaAGEJ6H7pgGGBE=",
+      "accountSignatureKey": "ggbxLFj55+ZQxOGpsfklHF1ySXuPjqVXBuAHHyKCzDw="،
+      "accountSignature": "I/3aUve+0SV39rs38OwY5TRY0xXKIVmo0W9z8D9+2ACWVj4fdUxjZv1XOcguV8H6CEx4iMP1Oa+KlYASxEUYAw=="،
+      "deviceSignature": "BbhaNs6wL/0gtl+7mMeCpum0JM98mXqcvcg8Dkp/SUUjwmwkb3JLU0WSTlZ3Vt1edHMWddCHKCKfOqKgPPkqDg=="
+    }،
+    "من": {
+      "id": "989393921419:8@s.whatsapp.net"،
+      "verifiedName": ""
+    }،
+    "signalIdentities": [
+      {
+        "مشخص کننده": {
+          "name": "989393921419:8@s.whatsapp.net"،
+          "شناسه دستگاه": 0
+        }،
+        "identifierKey": {
+          "نوع": "بافر"،
+          "داده": "BYIG8SxY+efmUMThqbH5JRxdckl7j46lVwbgBx8igsw8"
+        }
+      }
+    ]،
+    "lastAccountSyncTimestamp": 1662747553
+  }،
+  "کلیدها": {
+    "preKeys": {
+      "1": {
+        "خصوصی": {
+          "نوع": "بافر"،
+          "داده": "SKMn7p8XfI92wVZvC0dwXp/QfG5dX7Wilzihz5rSVWM="
+        }،
+        "عمومی": {
+          "نوع": "بافر"،
+          "داده": "Tt10Qd+8sMXYYl/2owNWKvQXFhDVJGIBW6OGN+n8Hks="
+        }
+      }،
+      "2": {
+        "خصوصی": {
+          "نوع": "بافر"،
+          "داده": "0O9BCGn6x8JbqM9s+3WMZrUHQkpjuFmYfEJ5MSeVomI="
+        }،
+        "عمومی": {
+          "نوع": "بافر"،
+          "داده": "GpDJFUofhLTX5yMalua1NPIYnPAu5IQZ9+/fsh7QolI="
+        }
+      }،
+      "3": {
+        "خصوصی": {
+          "نوع": "بافر"،
+          "داده": "sIBVE9/wmyhV/dLlZZp7v9AruFXNcufUpwOHqNTlrXo="
+        }،
+        "عمومی": {
+          "نوع": "بافر"،
+          "داده": "iDQEDHJvBEXzjfMnHMaa8Av39vf0RtO47XHdUD20OxI="
+        }
+      }،
+      "4": {
+        "خصوصی": {
+          "نوع": "بافر"،
+          "داده": "0J2hEdwrnk+zU+oQWoa33DovwJGxtHH4CNklua/eWEw="
+        }،
+        "عمومی": {
+          "نوع": "بافر"،
+          "داده": "09bdUirClFkgLhPSm1ai8ZYZjbMMk0txP71IBxsmwR0="
+        }
+      }،
+      "5": {
+        "خصوصی": {
+          "نوع": "بافر"،
+          "داده": "cHA/1YvkE6gMYpuvU5LDVGRWOzwcMcPX2C/E2VOyGH0="
+        }،
+        "عمومی": {
+          "نوع": "بافر"،
+          "داده": "8YwwAOZgwYaWGU0kMbPOigrMwxV//WeoT3OvviWgSnk="
+        }
+      }،
+      "6": {
+        "خصوصی": {
+          "نوع": "بافر"،
+          "داده": "YC5SRaXSArno3EOd3nnfy8j6fpj8bnYQiXvfs8lcBW8="
+        }،
+        "عمومی": {
+          "نوع": "بافر"،
+          "داده": "Kw3aHaZE4epJoxgoKIt72U2lzXfIJuRv+DnHiNSnwhE="
+        }
+      }،
+      "7": {
+        "خصوصی": {
+          "نوع": "بافر"،
+          "داده": "4Lc3WJNb+HL5h7UyKvLp7+AgLMVHxWpUokOoVWizqWI="
+        }،
+        "عمومی": {
+          "نوع": "بافر"،
+          "داده": "+UIohySV5XrEylhBXwC2YyD4952wDtBt0Bkne0sq3TU="
+        }
+      }،
+      "8": {
+        "خصوصی": {
+          "نوع": "بافر"،
+          "داده": "YAyjSS2i+VtLN6TzpdReCbd+e2kUmRHmkp0k7Rf99EE="
+        }،
+        "عمومی": {
+          "نوع": "بافر"،
+          "داده": "Na6RTrRMRrDZu/g691JTpqVEXkB6xy7MZmai9yUuygU="
+        }
+      }،
+      "9": {
+        "خصوصی": {
+          "نوع": "بافر"،
+          "داده": "GI9RNsakLctW4gidB7vzi0jaHe6Lm3fhrJVGnGp9x34="
+        }،
+        "عمومی": {
+          "نوع": "بافر"،
+          "داده": "eX07DpSexs56N8ioU5b7kbsEVRAiPWHiHITTw9LaxHE="
+        }
+      }،
+      "10": {
+        "خصوصی": {
+          "نوع": "بافر"،
+          "داده": "AKIfVHFoqra3+0toRTGp4yoRDwUTPtSlwb9PxsRnimU="
+        }،
+        "عمومی": {
+          "نوع": "بافر"،
+          "داده": "fHEdd0CQo2Y5xD+CJH5IvABV6DYuMa+E8Tg/e9aVRGw="
+        }
+      }،
+      "11": {
+        "خصوصی": {
+          "نوع": "بافر"،
+          "داده": "CA+ojGxam0wv11t0O4mgLe4B4CCiQnMERzzclp1ZTkU="
+        }،
+        "عمومی": {
+          "نوع": "بافر"،
+          "داده": "Wh8ZQ8RGpaYW18rYMvSuz8F8K+vP7Q03iA9BpfXchxA="
+        }
+      }،
+      "12": {
+        "خصوصی": {
+          "نوع": "بافر"،
+          "داده": "UDLKm8cW+gcMUyRSu91MFWIluB5+8TfQvl0nnIJOSX4="
+        }،
+        "عمومی": {
+          "نوع": "بافر"،
+          "داده": "aj2OS37ny2p8B1EpSXq6dMkQUcLl4TiMFOvOn53S1mg="
+        }
+      }،
+      "13": {
+        "خصوصی": {
+          "نوع": "بافر"،
+          "داده": "6NV+ZhhvYz4swSymy9GgzzQDmWDUpi+NgZJdc9jD7l8="
+        }،
+        "عمومی": {
+          "نوع": "بافر"،
+          "داده": "i9WAwTCLcsqq1BcFr/kj5k8Yvn/LDsqOCGf96or3rCs="
+        }
+      }،
+      "14": {
+        "خصوصی": {
+          "نوع": "بافر"،
+          "داده": "8HXTLgdq6xYOs4yNT5Ossfj3CvAfWD4Yckl68Zb4uEc="
+        }،
+        "عمومی": {
+          "نوع": "بافر"،
+          "داده": "8nyj8LrqlV9HXZqnp7oTsnPPbNpf+wjJZRqO2BGOJVI="
+        }
+      }،
+      "15": {
+        "خصوصی": {
+          "نوع": "بافر"،
+          "داده": "GO/N9MDyIrZrIg0B0in6Alo1HsmKDn54lzD//EKZZlo="
+        }،
+        "عمومی": {
+          "نوع": "بافر"،
+          "داده": "2v4e/ytJy4cI+P1ME5DrBDvVJPeMti2cm5FZMpGp2W8="
+        }
+      }،
+      "16": {
+        "خصوصی": {
+          "نوع": "بافر"،
+          "داده": "uLfqPZxtYNyXUuG6USKPudaXrNMlkuNXZn1SxOuFuFE="
+        }،
+        "عمومی": {
+          "نوع": "بافر"،
+          "داده": "Z/nAmFvP/Drj5ntUoEDz/Rgda27nNP7NUmiwutmeMDk="
+        }
+      }،
+      "17": {
+        "خصوصی": {
+          "نوع": "بافر"،
+          "داده": "0H/4v9PlBDVD1SVm6E1BkGSeG8CyVDWnd4gEGeT2yFI="
+        }،
+        "عمومی": {
+          "نوع": "بافر"،
+          "داده": "9jcTWONDWB+Lr7AKttpjzx0lv/s4k46aRZ04AkymTlw="
+        }
+      }،
+      "18": {
+        "خصوصی": {
+          "نوع": "بافر"،
+          "داده": "2NZzJCKejwDCh6+wA9+m6szXWtkpavFCCUrCN/LtG2k="
+        }،
+        "عمومی": {
+          "نوع": "بافر"،
+          "داده": "C+CVZ6ZnHcbaDET4s81IS4E+eWFgSkl163AX/3K38iY="
+        }
+      }،
+      "19": پوچ،
+      "20": پوچ،
+      "21": {
+        "خصوصی": {
+          "نوع": "بافر"،
+          "داده": "GEG1lWSq5d2lkL2rcR2fLRs+I5P8+2blK7fPHXuCFn4="
+        }،
+        "عمومی": {
+          "نوع": "بافر"،
+          "داده": "fXv0gNUFbH/vjykjROG5cPtLMFic0KpNKi7OyrOAIkk="
+        }
+      }،
+      "22": {
+        "خصوصی": {
+          "نوع": "بافر"،
+          "داده": "APUYJHgSZaiuzopZdFBnrRarn7jOkI3uzcwhCF1doXk="
+        }،
+        "عمومی": {
+          "نوع": "بافر"،
+          "داده": "fCQvFALpw0dVaOaxJX/Z/5ZmR3MBaaLj+f8pjJHorjo="
+        }
+      }،
+      "23": {
+        "خصوصی": {
+          "نوع": "بافر"،
+          "داده": "eJI881uPZjp48jcpcDish8DakSeaL+WpJIGlCQlpOGs="
+        }،
+        "عمومی": {
+          "نوع": "بافر"،
+          "داده": "FvbU+0vqZ9EFlJWmAyhoy1l8+vSAtWOi2yX0p+BK4wM="
+        }
+      }،
+      "24": {
+        "خصوصی": {
+          "نوع": "بافر"،
+          "داده": "cGcDTj4NlGraIqVYxqXFq55YZxF4KoSKXc252LkQbEc="
+        }،
+        "عمومی": {
+          "نوع": "بافر"،
+          "داده": "3w4WSobwB6sORclXovpg986qh0TMeS1KYxgc+iMk/zk="
+        }
+      }،
+      "25": {
+        "خصوصی": {
+          "نوع": "بافر"،
+          "داده": "INEzRFzfHbaYDJ5MrCPILVgzknr5zRMYOEgnfrXKhU8="
+        }،
+        "عمومی": {
+          "نوع": "بافر"،
+          "داده": "5kQxlYnGqeVax9y21f2JWXV5ZdNxTHvHggw/1ONBWUY="
+        }
+      }،
+      "26": {
+        "خصوصی": {
+          "نوع": "بافر"،
+          "داده": "4LxwRmwRQRpg3MsGVXU0lrGxExfGWTw3SzShTgfn+n8="
+        }،
+        "عمومی": {
+          "نوع": "بافر"،
+          "داده": "qkA869xOusCOTQ9VtA/xUjlmeT+ak/plXNT+kEcOsXU="
+        }
+      }،
+      "27": {
+        "خصوصی": {
+          "نوع": "بافر"،
+          "داده": "2EjPkvobzvCP1cNM/2S8QS3aZmAVdVNbHt2FwET6Z20="
+        }،
+        "عمومی": {
+          "نوع": "بافر"،
+          "داده": "WZbyLIPrhPBxeFQ2265ELgwfKy24kiJQ9/Ue5vThcVc="
+        }
+      }،
+      "28": {
+        "خصوصی": {
+          "نوع": "بافر"،
+          "داده": "cL3FshdtxhiNNS9aZKjbTCnPTk/b2kZJI5MJXo/T9WM="
+        }،
+        "عمومی": {
+          "نوع": "بافر"،
+          "داده": "Nb9mJfbihgNcMIw8rwZHM31TJhM41c0GqJwxAhjQrWE="
+        }
+      }،
+      "29": {
+        "خصوصی": {
+          "نوع": "بافر"،
+          "داده": "cLxGNob3QibI5D3y94wac27Bn9o6Ks/pOUZdAoklC0U="
+        }،
+        "عمومی": {
+          "نوع": "بافر"،
+          "داده": "9Sy7O1DXjNvQQHRntKahmrdkQspFKtSoXOvi2TtD2Wk="
+        }
+      }،
+      "30": {
+        "خصوصی": {
+          "نوع": "بافر"،
+          "داده": "iPsBnccxX4QVxhaIM3vA/cFx79wY/yax+dtkIoFFREM="
+        }،
+        "عمومی": {
+          "نوع": "بافر"،
+          "داده": "yT0dwDJ06Kd0asTMlnJ47ItdpeGahYGNogdfVJcFHHk="
+        }
+      }
+    }،
+    "جلسات": {
+      "989187143187.0": {
+        "_sessions": {
+          "BTXzJSfLTDCV5R7sFcexavw6+5yp1zUy0bYmr58PDuY2": {
+            "شناسه ثبت": 2075276470،
+            "currentRatchet": {
+              "ephemeralKeyPair": {
+                "pubKey": "BQBSq2sNJUzUrgeMAeVwAjYQdpDKxJMVbNE2JhdtyE1A"،
+                "privKey": "CNc+NT9kgQy8pDprf5Er4v8MePONAYfxXJBAuudiKkc="
+              }،
+              "lastRemoteEphemeralKey": "BWGhqi8gjPZCiD+fYS8DO4OgIrqQLGQNEsGA5vM4AaEH"،
+              "previousCounter": 0،
+              "rootKey": "fBPVpVTuKEFqzEaw/BChvgVgcedB5+M3t8mJJefsvgs="
+            }،
+            "indexInfo": {
+              "baseKey": "BTXzJSfLTDCV5R7sFcexavw6+5yp1zUy0bYmr58PDuY2"،
+              "baseKeyType": 2،
+              "بسته": -1،
+              "استفاده شده": 1662747559845،
+              "ایجاد": 1662747559845،
+              "RemoteIdentityKey": "BXjJKy1k3oYcnkvbOeV13uY67/GImRvTeDb1UTaKeQI+"
+            }،
+            "_chains": {
+              "BWGhqi8gjPZCiD+fYS8DO4OgIrqQLGQNEsGA5vM4AaEH": {
+                "کلید زنجیره ای": {
+                  "counter": 0،
+                  "key": "cxXNjQ42t8I/r9q0P6IUV07Kb2J9UiNIojF9aCuMdFg="
+                }،
+                "نوع زنجیره ای": 2،
+                "messageKeys": {}
+              }،
+              "BQBSq2sNJUzUrgeMAeVwAjYQdpDKxJMVbNE2JhdtyE1A": {
+                "کلید زنجیره ای": {
+                  "counter": -1،
+                  "key": "KTugJqkYdXzfdqO1YaUBs9vsxNPjgSLnzI7dKQ+JRMc="
+                }،
+                "نوع زنجیره ای": 1،
+                "messageKeys": {}
+              }
+            }
+          }
+        }،
+        "نسخه": "v1"
+      }،
+      "989393921419:1.0": {
+        "_sessions": {
+          "Be3B+KX1+1ZIRR7sK5GAinv691hQ7UgTl5gee4hW5OMQ": {
+            "RegistrationId": 192،
+            "currentRatchet": {
+              "ephemeralKeyPair": {
+                "pubKey": "BdfWKwvykG/GM1qVuwMkYIODaudyqekDwGdNM8p+mChG"،
+                "privKey": "6H83fsOLqzBAM/1ioLE/H7mKwQ7Yl+au/SHdVnpLm3Y="
+              }،
+              "lastRemoteEphemeralKey": "BTQWRwxkHlSN93F8lwkro9nqVaFWodngPuNp1HNMFih8"،
+              "previousCounter": 0،
+              "rootKey": "Evg/ZIGIxcgNMmIYE9Pz4UzO7U+RqjxfdcRKugUVrxA="
+            }،
+            "indexInfo": {
+              "baseKey": "Be3B+KX1+1ZIRR7sK5GAinv691hQ7UgTl5gee4hW5OMQ"،
+              "baseKeyType": 1،
+              "بسته": -1،
+              "استفاده شده": 1662747564897،
+              "ایجاد": 1662747564897،
+              "RemoteIdentityKey": "BQ2hLQezGVN6qE8aA3/rXWx2V4cF1u9cBh2uxgPcvV4A"
+            }،
+            "_chains": {
+              "BdfWKwvykG/GM1qVuwMkYIODaudyqekDwGdNM8p+mChG": {
+                "کلید زنجیره ای": {
+                  "counter": 0،
+                  "key": "lWNj15fq2VtqQUBCJt+JchpgOamAbdJn0MEQhNoPPXc="
+                }،
+                "نوع زنجیره ای": 1،
+                "messageKeys": {}
+              }
+            }،
+            "pendingPreKey": {
+              "signedKeyId": 1،
+              "baseKey": "Be3B+KX1+1ZIRR7sK5GAinv691hQ7UgTl5gee4hW5OMQ"
+            }
+          }
+        }،
+        "نسخه": "v1"
+      }،
+      "989393921419:6.0": {
+        "_sessions": {
+          "Ba4fV1lGiDUmEdsaQIuV34Au141kDWc7pn1bmKxnuU8N": {
+            "RegistrationId": 128،
+            "currentRatchet": {
+              "ephemeralKeyPair": {
+                "pubKey": "BYLadI/YepJ3FEoy0DMleMt9ShpPY0d26dDyJ2q08YwW"،
+                "privKey": "0MhlH9unNtoLzjlHEccLLE/mYBe4bFb3v4tH65AHKmA="
+              }،
+              "lastRemoteEphemeralKey": "BcAEWr2OQw7h+xl+v1X6CVqf108PSftlG7MABgYH3+Qq"،
+              "previousCounter": 0،
+              "rootKey": "VJ2O5nNOqraGeJZVOv5kyZvG6Rk8QMIhVG/rcoYO1tc="
+            }،
+            "indexInfo": {
+              "baseKey": "Ba4fV1lGiDUmEdsaQIuV34Au141kDWc7pn1bmKxnuU8N"،
+              "baseKeyType": 1،
+              "بسته": -1،
+              "استفاده شده": 1662747564962،
+              "ایجاد": 1662747564962،
+              "RemoteIdentityKey": "BevQBOqXEPvVbayWERRNcN4NZDOQ+vsS4b1K4Z0ABK1k"
+            }،
+            "_chains": {
+              "BYLadI/YepJ3FEoy0DMleMt9ShpPY0d26dDyJ2q08YwW": {
+                "کلید زنجیره ای": {
+                  "counter": 0،
+                  "key": "DQKj74eprtxKZT0vwrAXxN34Qbl5gU2kGW2ohVCzuTg="
+                }،
+                "نوع زنجیره ای": 1،
+                "messageKeys": {}
+              }
+            }،
+            "pendingPreKey": {
+              "signedKeyId": 1،
+              "baseKey": "Ba4fV1lGiDUmEdsaQIuV34Au141kDWc7pn1bmKxnuU8N"
+            }
+          }
+        }،
+        "نسخه": "v1"
+      }،
+      "989393921419:7.0": {
+        "_sessions": {
+          "BXJ8xw2lAuVe9H4vQeAPz1azpSUVzXRXLfmIGGnUWTAQ": {
+            "RegistrationId": 176،
+            "currentRatchet": {
+              "ephemeralKeyPair": {
+                "pubKey": "BY0z9LBxWkCYoNLqa1sEwRs91POtRCHrnPb8TUc+r9pc"،
+                "privKey": "SPKaimCMg7yITX/JwAMXK82b59E2NhEPqSLEU0AWI3k="
+              }،
+              "lastRemoteEphemeralKey": "BbRL0nql5YhsFtPhJkEBMtgIGiL5IbTrpURB0dHKzgxU"،
+              "previousCounter": 0،
+              "rootKey": "t0sh7v1mtVOry4Lj7d6Mu5NE4In0zlo5ayc7fFO2dIs="
+            }،
+            "indexInfo": {
+              "baseKey": "BXJ8xw2lAuVe9H4vQeAPz1azpSUVzXRXLfmIGGnUWTAQ"،
+              "baseKeyType": 1،
+              "بسته": -1،
+              "استفاده شده": 1662747565022،
+              "ایجاد": 1662747565022،
+              "RemoteIdentityKey": "BcxGyLYwDIkSBEtKuzyh+YQ9z0OGRAYzJcFiY4D9nJdj"
+            }،
+            "_chains": {
+              "BY0z9LBxWkCYoNLqa1sEwRs91POtRCHrnPb8TUc+r9pc": {
+                "کلید زنجیره ای": {
+                  "counter": 0،
+                  "key": "/7EczOgHZ5yztNe7vQAsHhQMLbRN7y45DHaXoAodmkU="
+                }،
+                "نوع زنجیره ای": 1،
+                "messageKeys": {}
+              }
+            }،
+            "pendingPreKey": {
+              "signedKeyId": 1،
+              "baseKey": "BXJ8xw2lAuVe9H4vQeAPz1azpSUVzXRXLfmIGGnUWTAQ"
+            }
+          }
+        }،
+        "نسخه": "v1"
+      }،
+      "989393921419.0": {
+        "_sessions": {
+          "BSw4EgzcLORlX2XfieCQW7q6Jg3gLqh7AsIb6LpQyjYi": {
+            "شناسه ثبت": 1463563001،
+            "currentRatchet": {
+              "ephemeralKeyPair": {
+                "pubKey": "BZ+ba/qdYCsUBWWx4VJWRgxy0o8slAulEq6fW0QwWyNM"،
+                "privKey": "oHSzpY+O9iTq1wGmL3zv98xiew7g0q3crlqujcvSX3k="
+              }،
+              "lastRemoteEphemeralKey": "BXqAh7TWQzmuetYKxrSnq8REFwqBytvDM8RCQUgVOY87"،
+              "previousCounter": 0،
+              "rootKey": "uvindU8eLtsQtIXtghvet5QRvq4bkzGJLDlfAJttvz4="
+            }،
+            "indexInfo": {
+              "baseKey": "BSw4EgzcLORlX2XfieCQW7q6Jg3gLqh7AsIb6LpQyjYi"،
+              "baseKeyType": 1،
+              "بسته": -1،
+              "استفاده شده": 1662747565028،
+              "ایجاد": 1662747565028،
+              "RemoteIdentityKey": "BYIG8SxY+efmUMThqbH5JRxdckl7j46lVwbgBx8igsw8"
+            }،
+            "_chains": {
+              "BZ+ba/qdYCsUBWWx4VJWRgxy0o8slAulEq6fW0QwWyNM": {
+                "کلید زنجیره ای": {
+                  "counter": 1،
+                  "key": "GfHIgFKxJVmcM2clL1T8EpvulWeqoqYi+DFr1HBhYf4="
+                }،
+                "نوع زنجیره ای": 1،
+                "messageKeys": {}
+              }
+            }،
+            "pendingPreKey": {
+              "signedKeyId": 0،
+              "baseKey": "BSw4EgzcLORlX2XfieCQW7q6Jg3gLqh7AsIb6LpQyjYi"،
+              "preKeyId": 5391051
+            }
+          }
+        }،
+        "نسخه": "v1"
+      }،
+      "989384251877.0": {
+        "_sessions": {
+          "BZs6Pri2VRpwUcqjg+vxTi9kdw1w6WtrWm//+ZciKVN1": {
+            "شناسه ثبت": 1352618048،
+            "currentRatchet": {
+              "ephemeralKeyPair": {
+                "pubKey": "BS0+j6xcPWnxlhbFC3TM5+d25CRKAe/ok5TZYL7mkjd1"،
+                "privKey": "oCqcbhLgbkuam3pzOWj2mppwGsyGwZK9axasaj6W238="
+              }،
+              "lastRemoteEphemeralKey": "Bd7fint51nTlBWMUNJWpoFM2CvW2xqv66htYJ+3ZO1Vo"،
+              "previousCounter": 0،
+              "rootKey": "ErNjUzR5tSZMrzHXm17Opae5NcNau+Y/pfnm6C5GQFo="
+            }،
+            "indexInfo": {
+              "baseKey": "BZs6Pri2VRpwUcqjg+vxTi9kdw1w6WtrWm//+ZciKVN1"،
+              "baseKeyType": 2،
+              "بسته": -1،
+              "استفاده شده": 1662747570113،
+              "ایجاد": 1662747570113،
+              "RemoteIdentityKey": "BcEZEJWBMPsAuzkveFfUx22dKPvhojGY6OO1HrDRMZ4I"
+            }،
+            "_chains": {
+              "Bd7fint51nTlBWMUNJWpoFM2CvW2xqv66htYJ+3ZO1Vo": {
+                "کلید زنجیره ای": {
+                  "counter": 0،
+                  "key": "XvZaDOKt8Eko0MtqBaDkM6bmKFpWHmujfKct6Cpv8TE="
+                }،
+                "نوع زنجیره ای": 2،
+                "messageKeys": {}
+              }،
+              "BS0+j6xcPWnxlhbFC3TM5+d25CRKAe/ok5TZYL7mkjd1": {
+                "کلید زنجیره ای": {
+                  "counter": -1،
+                  "key": "bdJvIlE3KmhBj6Mf1ISqxt8w/7e2Sr4mjgYOQ8yOGWU="
+                }،
+                "نوع زنجیره ای": 1،
+                "messageKeys": {}
+              }
+            }
+          }
+        }،
+        "نسخه": "v1"
+      }
+    }،
+    "senderKeys": {
+      "status@broadcast::989187143187::0": [
+        {
+          "senderKeyId": 306023589،
+          "senderChainKey": {
+            "تکرار": 8،
+            "seed": "4A/Zqu3CoiE4nu0ZSVN3VUVc2JiqVAS6YvPA2gguKsU="
+          }،
+          "senderSigningKey": {
+            "عمومی": "Beveacyctm6CjnOw2doJK17kMehPQjFJblrqtoM3Brpb"
+          }
+        }
+      ]،
+      "status@broadcast::989384251877::0": [
+        {
+          "senderKeyId": 804233717،
+          "senderChainKey": {
+            "تکرار": 4،
+            "seed": "V036P6YlKUyQ3MqU+3+yBe/p7omFQL/xox/1DKIoH/E="
+          }،
+          "senderSigningKey": {
+            "عمومی": "BZ+cay5MeJbbNeUU7gej9JvzYX0ze1DkIQstF1xBsEJi"
+          }
+        }
+      ]
+    }
+  }
+}
